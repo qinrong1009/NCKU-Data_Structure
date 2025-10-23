@@ -1,0 +1,5 @@
+字串複製
+1.char *copy = strdup(original);//直接複製
+2.char copy[size]; strcpy(copy, original);//先宣告再貼過來
+字串比較
+strcmp(root->element->key, key) == 0

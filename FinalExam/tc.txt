@@ -1,0 +1,8 @@
+insert 5
+insert 3
+insert 8
+insert 2
+delete-min
+insert 7
+delete-max
+exit

@@ -1,0 +1,10 @@
+bucket 6
+slot 1
+insert 1
+insert 0
+insert 2
+insert 3
+insert 4
+insert 9
+delete 3
+exit
